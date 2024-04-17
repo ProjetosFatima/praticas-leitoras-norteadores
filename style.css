@@ -1,0 +1,56 @@
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.tg td {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Roboto Black;
+  font-size: em;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg th {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Roboto Black;
+  font-size: 1.5em;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg .tg-2fdn {
+  border-color: #9b9b9b;
+  text-align: center;
+  vertical-align: center
+}
+
+.tg .tg-o40d {
+  border-color: #9b9b9b;
+  text-align: center;
+  vertical-align: center
+}
+
+.tg .tg-xdub {
+  background-color: #ace9fc;
+  border-color: #9b9b9b;
+  text-align: center;
+  vertical-align: top
+}
+
+.lineskip-two {
+  margin-bottom: 2em;
+  text-align: center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
