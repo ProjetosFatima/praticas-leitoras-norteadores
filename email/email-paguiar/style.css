@@ -1,0 +1,14 @@
+.myDiv {
+  border: 1px outset black;
+  background-color: white;    
+  text-align: center;
+  width: 16em;
+}
+
+.lineskip-two {
+  margin-bottom: 2em;
+}
+
+.lineskip-three {
+  margin-bottom: 3em;
+}
